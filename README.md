@@ -12,7 +12,7 @@ password : password
 name : Kirby Hipona - Web Designer
 role : Web Designer    
  
-**Web Developer :   **
+**Web Developer :**
 username : webdeveloper
 password : password 
 name : Kirby Hipona - Web Developer
