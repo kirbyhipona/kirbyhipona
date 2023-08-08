@@ -1,23 +1,21 @@
-# USERNAME & PASSWORD ARE READY TO USE.
+# Username and password.
 
-  [
-                    'username' => 'webdesigner',
-                    'password' => 'password', 
-                    'name' => 'Kirby Hipona - Web Designer',
-                    'role' => 'Web Designer',
-                ],
-                [
+Manager Role :
                     'username' => 'manager',
                     'password' => 'password', 
                     'name' => 'Kirby Hipona - Manager',
                     'role' => 'Manager',
-                ],
-                [
+Web Designer :
+                    'username' => 'webdesigner',
+                    'password' => 'password', 
+                    'name' => 'Kirby Hipona - Web Designer',
+                    'role' => 'Web Designer',
+Web Developer :                    
                     'username' => 'webdeveloper',
                     'password' => 'password', 
                     'name' => 'Kirby Hipona - Web Developer',
                     'role' => 'Web Developer',
-                ],
+
 
 # CodeIgniter 4 Application Starter
 
