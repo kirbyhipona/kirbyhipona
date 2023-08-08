@@ -1,5 +1,4 @@
 # Username and password.
-
 Manager Role :
                     'username' => 'manager',
                     'password' => 'password', 
@@ -14,9 +13,9 @@ Web Developer :
                     'username' => 'webdeveloper',
                     'password' => 'password', 
                     'name' => 'Kirby Hipona - Web Developer',
-                    'role' => 'Web Developer',
+                    'role' => 'Web Developer'
 
-
+                    
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
